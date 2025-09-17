@@ -1,0 +1,28 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vs
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+
+# Executables
+*.exe
+*.dll
+
+# Archives
+*.zip
+*.rar
+
+# Textures & large assets (optional)
+*.psd
+*.mp4
+*.avi
